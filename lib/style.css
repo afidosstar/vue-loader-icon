@@ -1,0 +1,4 @@
+svg.vue-loader-icon:not(.preserver) path {
+ color: currentColor;
+ fill: currentColor;
+}
